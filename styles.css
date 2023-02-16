@@ -15,11 +15,20 @@ body{
     max-width: 70%;
 }
 
+#text{
+    font-size: 30px;
+}
+
+#author{
+    font-size: 20px;
+}
+
 #new-quote{
     color: white;
     border: none;
     border-radius: 5px;
     padding: 5px 10px 5px 10px;
+    font-size: 15px;
 }
 
 #tweet-quote{
