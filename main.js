@@ -110,6 +110,10 @@ const quotes = [
 {
     quote: "Just start doing. If it's not going the way you want then change direction and go another way.",
     author: "Amy Chang"
+},
+{
+    quote: "Never half-ass two things, always whole-ass one thing.",
+    author: "Ron Swanson"
 }
 ]
 
