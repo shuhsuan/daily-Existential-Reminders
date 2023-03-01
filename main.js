@@ -106,6 +106,10 @@ const quotes = [
 {
     quote: "The life you have left is a gift. Cherish it. Enjoy it now, to the fullest. Do what matters, now.",
     author: "Leo Babauta"
+},
+{
+    quote: "Just start doing. If it's not going the way you want then change direction and go another way.",
+    author: "Amy Chang"
 }
 ]
 
